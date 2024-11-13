@@ -5,4 +5,4 @@ Box: Brainstorm (THM) Level: Medium rare lol
 ![](banner.png)
 
 
-![](worksworks.png)
+![](system.png)
